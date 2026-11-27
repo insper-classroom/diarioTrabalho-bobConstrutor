@@ -41,3 +41,6 @@ Aprendemos que a coordenação não quer ficar no meio entre quem contrata e que
 Decidimos dividir o projeto com o outro grupo: nós ficamos com a parte social e eles com a parte educacional.
 
 Revimos nossos planos de implementação, para não desenvolver funcionalidades que se repitam com as do outro grupo.
+
+
+Hoje, 26/11 realizamos as divisões finais de tarefas do projeto para continuarmos as implementações e mostrarmos para o cliente no dia 30/11 para um último alinhamento antes da entrega final. Além disso discutimos algumas questões de implementação como a parte de cadastro de alunos e não alunos entre outras.
